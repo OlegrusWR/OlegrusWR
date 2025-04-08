@@ -19,8 +19,6 @@
 [![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegrusWR&show_icons=true&theme=radical)](https://github.com/OlegrusWR)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegrusWR&layout=compact&theme=radical)](https://github.com/OlegrusWR)
 
-### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=OlegrusWR&theme=radical)](https://git.io/streak-stats)
 
 ### 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://web.telegram.org/k/#@hedrachq)
