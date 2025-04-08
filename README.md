@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Oleg</h1>
+<h3 align="center">🚀 Backend Developer | Basketball Lover | S21 Student</h3>
 
-<!--
-**OlegrusWR/OlegrusWR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&width=435&lines=Turning+coffee+into+code...;Learning+low-level+magic!" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-FCA121?logo=gitlab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+[![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegrusWR&show_icons=true&theme=radical)](https://github.com/OlegrusWR)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegrusWR&layout=compact&theme=radical)](https://github.com/OlegrusWR)
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OlegrusWR&theme=radical)](https://git.io/streak-stats)
+
+### 📫 How to reach me
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://web.telegram.org/k/#@hedrachq)
