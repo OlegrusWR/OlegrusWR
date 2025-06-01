@@ -16,7 +16,6 @@
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-FCA121?logo=gitlab)
 
 ### 📊 GitHub Stats
-[![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegrusWR&show_icons=true&theme=radical)](https://github.com/OlegrusWR)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegrusWR&layout=compact&theme=radical)](https://github.com/OlegrusWR)
 
 
