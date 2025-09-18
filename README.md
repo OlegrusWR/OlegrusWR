@@ -15,9 +15,22 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-FCA121?logo=gitlab)
 
-### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegrusWR&layout=compact&theme=radical)](https://github.com/OlegrusWR)
+### 📈 GitHub Activity
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OlegrusWR&theme=radical&hide_border=true)](https://github.com/OlegrusWR)
 
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=OlegrusWR&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/OlegrusWR)
+
+### 💻 Current Focus
+- 🔭 Working on backend development with **Go**
+- 🌱 Learning system programming with **C/C++**
+- 🎯 Exploring containerization with **Docker**
+- 🏀 Playing basketball in free time
 
 ### 📫 How to reach me
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://web.telegram.org/k/#@hedrachq)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://web.telegram.org/k/#@hedrachq)
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OlegrusWR&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
