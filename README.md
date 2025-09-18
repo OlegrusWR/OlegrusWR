@@ -15,6 +15,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OlegrusWR/OlegrusWR/output/github-contribution-grid-snake.svg" />
+</div>
+
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=OlegrusWR&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/OlegrusWR)
 
