@@ -16,9 +16,8 @@
 [![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD)
 ](https://img.shields.io/badge/-GitLab%20CI/CD-FCA121?logo=gitlab)
 
-### 📈 GitHub Activity
-![](https://img.shields.io/github/followers/OlegrusWR?style=social)
-![](https://img.shields.io/github/stars/OlegrusWR?style=social)
+### 📊 Quick Stats
+![Profile Views](https://komarev.com/ghpvc/?username=OlegrusWR&style=flat-square&color=blue)
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=OlegrusWR&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/OlegrusWR)
