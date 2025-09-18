@@ -13,8 +13,8 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-[![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD)
-](https://img.shields.io/badge/-GitLab%20CI/CD-FCA121?logo=gitlab)
+[![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-FCA121?logo=gitlab)
+
 
 ### 📊 Quick Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=OlegrusWR&style=flat-square&color=blue)
