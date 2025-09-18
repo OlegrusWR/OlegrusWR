@@ -13,10 +13,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-FCA121?logo=gitlab)
-
-### 📈 GitHub Activity
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OlegrusWR&theme=radical&hide_border=true)](https://github.com/OlegrusWR)
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/C
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=OlegrusWR&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/OlegrusWR)
