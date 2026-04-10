@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Oleg</h1>
-<h3 align="center">🚀 Backend Developer | Basketball Lover | S21 Student</h3>
+<h3 align="center">🚀 System Analyst | Backend Developer | Basketball Lover | S21 Student</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
